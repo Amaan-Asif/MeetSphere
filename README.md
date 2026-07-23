@@ -146,10 +146,6 @@ MeetSphere/
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
-
-**Mayank R** - [GitHub Profile](https://github.com/mayankr007)
-
 ## 🙏 Acknowledgments
 
 - React.js team for the amazing framework
